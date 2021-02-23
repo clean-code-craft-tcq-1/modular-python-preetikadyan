@@ -1,6 +1,8 @@
 def num_corresponding_to_maj_min_color(MAJOR_COLORS,MINOR_COLORS):
-     for num in range(26):
+     num =1
+     while(num<=25):
          for i in MAJOR_COLORS:
             for j in MINOR_COLORS:
                print(num,i,j)
-                num=num+1
+            num+=1   
+                
