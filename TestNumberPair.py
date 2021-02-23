@@ -1,4 +1,4 @@
-from getColor import *
+from getColor import get_color_from_pair_number
 from main import *
 
 def test_number_to_pair(pair_number,
