@@ -1,5 +1,7 @@
 from ReferenceManual import num_corresponding_to_maj_min_color
-from PairNumberColor,TestNumberPair,getColor import *
+from PairNumberColor import *
+from TestNumberPair import *
+from getColor import *
 
 
 MAJOR_COLORS = ['White', 'Red', 'Black', 'Yellow', 'Violet']
