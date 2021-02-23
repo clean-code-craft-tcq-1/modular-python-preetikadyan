@@ -49,5 +49,5 @@ if __name__ == '__main__':
   test_pair_to_number('Black', 'Orange', 12)
   test_pair_to_number('Violet', 'Slate', 25)
   test_pair_to_number('Red', 'Orange', 7)
-  ReferenceManual(MAJOR_COLORS,MINOR_COLORS)
+  num_corresponding_to_maj_min_color(MAJOR_COLORS,MINOR_COLORS)
   print('Done :)')
