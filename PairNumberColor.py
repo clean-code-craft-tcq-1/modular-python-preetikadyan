@@ -1,5 +1,4 @@
 from main import *
-from main import *
 
 def get_pair_number_from_color(major_color, minor_color):
   try:
