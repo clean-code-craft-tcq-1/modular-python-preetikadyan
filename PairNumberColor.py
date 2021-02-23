@@ -1,3 +1,6 @@
+from main import *
+from main import *
+
 def get_pair_number_from_color(major_color, minor_color):
   try:
     major_index = MAJOR_COLORS.index(major_color)
