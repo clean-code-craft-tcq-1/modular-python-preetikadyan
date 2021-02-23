@@ -1,0 +1,3 @@
+def displayMappingTable(MappingTable):
+     for i in mappingTable:
+         print(i,mappinTable[i])
