@@ -1,4 +1,4 @@
-from ReferenceManual import *
+from ReferenceManual import num_corresponding_to_maj_min_color
 
 MAJOR_COLORS = ['White', 'Red', 'Black', 'Yellow', 'Violet']
 MINOR_COLORS = ["Blue", "Orange", "Green", "Brown", "Slate"]
